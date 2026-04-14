@@ -52,3 +52,6 @@ You can use **any programming language** you are comfortable with:
 ---
 
 Happy Coding 🚀
+----
+##today's solution
+📄 [View the PDF](https://drive.google.com/file/d/1vGeqIwePUtaNCiiQDvyT9Ch8N93JpUhX/view)
