@@ -15,11 +15,8 @@ for(int i=0;i<N;i++){
     arr[i]=arr[j];
     arr[j]=temp;
     j++;
-
    }
-  
 }
-
 for(int i=0;i<N;i++)
 printf("%d ",arr[i]);
  return 0;
